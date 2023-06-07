@@ -3,4 +3,5 @@
 ## This is a table
 
 | Column | A column too |
+| --- | --- |
 | blub | bleb |
